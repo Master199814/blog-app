@@ -51,7 +51,7 @@ export default function Nav()
     
         try {
     
-            const res = await sendRequest('GET', 'https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=ac81fc76748f4cac914ba7f6e85a462d');
+            const res = await sendRequest('GET', 'https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=');
     
             setHeadlines(res.articles.slice(0,5))
     
