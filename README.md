@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+
+run the posts.xml file in the local server and verify the url in the blogpost component
+
 ### `npm start`
 
 Runs the app in the development mode.\
