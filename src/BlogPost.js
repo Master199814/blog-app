@@ -28,7 +28,8 @@ export default function BlogPost(){
   
       }
     };
-    xhttp.open("GET", "http://127.0.0.1:5500/blog-app/src/posts.xml", true);
+    //check the local ran xml url here 
+    xhttp.open("GET", "http://127.0.0.1:5500/src/posts.xml", true);
     xhttp.send();
   
   } 
