@@ -8,6 +8,7 @@ In the project directory, you can run:
 
 
 run the posts.xml file in the local server and verify the url in the blogpost component
+insert the api key in the Nav Component
 
 ### `npm start`
 
