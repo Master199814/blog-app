@@ -23,6 +23,37 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.container{
+  width:100%;
+}
+h2{
+  cursor: pointer;
+}
+.blog-posts{
+  width:60%;
+  float: left;
+  padding: 10px;
+}
+.blog-posts img{
+  width:50%;
+}
+.article-section{
+  width:30%;
+  float: left;
+}
+button
+{
+  background-color: skyblue;
+}
+.header-title
+{
+  text-align: center;
+  background-color: Red;
+}
+
+.articles img{
+  width:95%;
+}
 
 .App-link {
   color: #61dafb;
